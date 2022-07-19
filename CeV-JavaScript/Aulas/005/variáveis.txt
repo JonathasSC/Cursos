@@ -1,1 +1,9 @@
-Nessa aula foi explicado o funcionamento de variáveis
+Nessa aula foi explicado o funcionamento de variáveis, que podem
+ser entendidas como espaços a serem preenchidos com dados
+facilitando o acesso e a manipulação dos mesmos durante todo o 
+código.
+
+outro exemplo para melhor compreensão:
+
+imagine que variáveis sejam vagas para estacionamento de veículos,
+essa vaga so pode ser preenchida com um veículo 
