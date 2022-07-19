@@ -23,6 +23,7 @@ conter acentos
 o identificar não pode:
 
 começar com números
+não pode ser palavras reservadas
 conter espaço ( invés disso use o _ )
 
 
