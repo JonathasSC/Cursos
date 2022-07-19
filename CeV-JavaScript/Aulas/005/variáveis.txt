@@ -19,3 +19,5 @@ strings;
 
 No JavaScript os números inteiros e números flutuantes são
 ambos tratados como 'numbers' ou números comuns.
+
+
