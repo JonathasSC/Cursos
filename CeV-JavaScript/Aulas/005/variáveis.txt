@@ -18,6 +18,12 @@ o identificador pode:
 
 começar com letra, $ ou _
 conter letras e números
+conter acentos
+
+o identificar não pode:
+
+começar com números
+conter espaço ( invés disso use o _ )
 
 
 Existe diversos tipos de dados, esses são
