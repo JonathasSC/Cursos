@@ -9,6 +9,10 @@ imagine que variáveis sejam vagas para estacionamento de veículos,
 essa vaga so pode ser preenchida com um veículo, para colocar outro veículo,
 obrigatoriamente o veículo anterior deve sair da vaga.
 
+para definir uma variável no JS basta digitar:
+
+var _NOME_DA_VARIAVEL_ = _DADO_RECEBIDO_
+
 
 Existe diversos tipos de dados, esses são
 os mais comumente utilizados:
@@ -22,3 +26,4 @@ No JavaScript os números inteiros e números flutuantes são
 ambos tratados como 'numbers' ou números comuns.
 
 Mas além dos mais utilizados existe:
+
