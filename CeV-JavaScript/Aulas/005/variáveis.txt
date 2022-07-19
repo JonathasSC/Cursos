@@ -29,11 +29,17 @@ conter espaço ( invés disso use o _ )
 Existe diversos tipos de dados, esses são
 os mais comumente utilizados:
 
-
 números inteiros;
+números sem ponto e nem vírgula.
+
 números flutuantes;
+número com ponto ou vírgula.
+
 booleanos;
+False ou True
+
 strings;
+série de caracteres 
 
 No JavaScript os números inteiros e números flutuantes são
 ambos tratados como 'numbers' ou números comuns.
