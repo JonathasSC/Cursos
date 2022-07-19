@@ -26,9 +26,9 @@ começar com números
 não pode ser palavras reservadas
 conter espaço ( invés disso use o _ )
 
-
 Existe diversos tipos de dados, esses são
 os mais comumente utilizados:
+
 
 números inteiros;
 números flutuantes;
