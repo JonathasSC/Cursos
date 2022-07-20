@@ -1,1 +1,40 @@
-.
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <meta name='viewport' charset='utf-8'/>
+        <meta http-equiv="X-UA-Compatible" content='ie-edge'/>
+        <title>JavaScript</title>
+        
+        <style>
+            h1 {
+                color: #e1c9e0;
+            }
+            body{
+                background-color: #3a2573;
+                color: white;
+                font: normal 20pt Arial;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Exercício 04</h1>
+        
+        <p> Esse exercício faz parte da aula 06.</p>
+
+        <script>
+            //recebendo e definindo a variável 'name'
+            var name = window.prompt('Digite seu nome: ')
+            //efetuando window alert ao receber 'name'
+            window.alert('Nome recebido.')
+            //retornando na página a resposta
+            document.write(`Ola, ${name}! seu nome tem ${name.length} letras.<br>`)
+            //em letras maiúsculas 
+            document.write(`Seu nome em maiúsculas é ${name.toUpperCase()}<br>`)
+            //em letras minúsculas
+            document.write(`Seu nome em minúsculas é ${name.toLowerCase()}`)
+
+        </script>
+    </body>
+</html>
+
