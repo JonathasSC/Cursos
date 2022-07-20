@@ -3,7 +3,7 @@
 ### Sobre esse diretório
 
 Diretório criado para guardar meu desenvolvimento
-no Curso leitura de HTML, CSS e JavaScript na plataforma 'Cursa', veja mais sobre Cursa abaixo
+no Curso leitura de HTML, CSS e JavaScript na plataforma 'Cursa', veja mais sobre Cursa abaixo.
 
 ### Sobre Cursa:
 
