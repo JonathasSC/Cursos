@@ -1,5 +1,9 @@
-## HTML,CSS e JavaScript por Caelum<br>Oferecido por Cursa
+## HTML, CSS e JavaScript por Caelum<br>Oferecido por Cursa
 
+## Sobre esse diretório
+
+Diretório criado para guardar meu desenvolvimento
+no Curso leitura de HTML, CSS e JavaScript 
 
 ### Sobre Cursa:
 
