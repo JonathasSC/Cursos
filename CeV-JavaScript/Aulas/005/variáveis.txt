@@ -17,5 +17,10 @@ No javascript pode ser utilizado dois tipos de metodos para comentar, sendo esse
 
 Variaveis são como caixas que guardam dados, as variveis so podem guardar um dado por vez, sendo assim, impossivel de definir dados diferentes dentro dela mais de uma vez dentro codigo, quando uma variavel recebe um novo dado em determinado momento do código, o anterior é excluido.
 
+    um exemplo usado no video dessa aula foi: 
+    
+        Imagine uma vaga de veiculo em um estacionamento,
+        essa vaga cabe apenas um carro por vez, sendo impossivel colocar dois carros na mesma vaga.
+
 Existe regras no
     
