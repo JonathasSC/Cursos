@@ -15,7 +15,7 @@ No javascript pode ser utilizado dois tipos de metodos para comentar, sendo esse
 
 #VARIAVEIS
 
-Variaveis são como caixas que guardam dados, as variveis so podem guardar um dado por vez, sendo que quando é tentado inserir outro dado na variavel, o dado anterior é substituido.
+Variaveis são como caixas que guardam valores, as variveis so podem guardar um valor por vez, sendo que quando é tentado inserir outro valor na variavel, o valor anterior é substituido.
 
     um exemplo usado no video dessa aula foi: 
     
