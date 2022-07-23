@@ -2,6 +2,9 @@ AULA 005
 
 #COMENTARIOS:
 
+O comentario é utilizado para explicar pedaços do código enquanto o mesmo é desenvolvido, 
+comentarios são ignorados pelo sistema ao rodar o arquivo de código.
+
 No javascript pode ser utilizado dois tipos de metodos para comentar, sendo esses o:
 
 //;
