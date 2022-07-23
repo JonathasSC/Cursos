@@ -1,48 +1,11 @@
-Nessa aula foi explicado o funcionamento de variáveis, que podem
-ser entendidas como espaços a serem preenchidos com dados
-facilitando o acesso e a manipulação dos mesmos durante todo o 
-código.
+AULA 005
 
-outro exemplo para melhor compreensão:
+#COMENTARIOS:
 
-imagine que variáveis sejam vagas para estacionamento de veículos,
-essa vaga so pode ser preenchida com um veículo, para colocar outro veículo,
-obrigatoriamente o veículo anterior deve sair da vaga.
+No javascript pode ser utilizado dois tipos de metodos para comentar, sendo esses o:
 
-para definir uma variável no JS basta digitar:
-
-var _NOME_DA_VARIAVEL_ = _DADO_RECEBIDO_
-
-Obs: O nome da variável é chamado de identificador
-o identificador pode:
-
-começar com letra, $ ou _
-conter letras e números
-conter acentos
-
-o identificar não pode:
-
-começar com números
-não pode ser palavras reservadas
-conter espaço ( invés disso use o _ )
-
-Existe diversos tipos de dados, esses são
-os mais comumente utilizados:
-
-números inteiros;
-números sem ponto e nem vírgula.
-
-números flutuantes;
-número com ponto ou vírgula.
-
-booleanos;
-False ou True
-
-strings;
-série de caracteres 
-
-No JavaScript os números inteiros e números flutuantes são
-ambos tratados como 'numbers' ou números comuns.
-
-Mas além dos mais utilizados existe:
-
+//;
+    Esse é utilizado para comentar uma unica linha
+/* */
+    Esse é utilizado para comentar tudo que estiver entre /* e */
+    
