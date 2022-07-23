@@ -12,3 +12,10 @@ No javascript pode ser utilizado dois tipos de metodos para comentar, sendo esse
 /* */
     Esse é utilizado para comentar tudo que estiver entre /* e */
     
+
+#VARIAVEIS
+
+Variaveis são como caixas que guardam dados, as variveis so podem guardar um dado por vez, sendo assim, impossivel de definir dados diferentes dentro dela mais de uma vez dentro codigo, quando uma variavel recebe um novo dado em determinado momento do código 
+
+Existe regras no
+    
