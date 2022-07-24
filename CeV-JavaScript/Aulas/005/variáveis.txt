@@ -37,11 +37,17 @@ um exemplo usado no video dessa aula foi:
 O nome que uma variavel recebe chama-se 'identificador',
 para definir um identificador sem erros e de forma correta é 
 necessario se adequar a algumas regras, como:
+
     - NÃO começar com números;
     - NÃO conter espaços;
     - NÃO usar palavras reservadas.
+        invés disso use o '_'.
     
+O identificador pode;
     
-
+    - começar com letras, $ ou _;
+    - mesclar letras com números;
+    - usar acentos e símbolos;
+    
 Existe regras no
     
