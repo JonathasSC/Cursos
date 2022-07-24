@@ -15,13 +15,15 @@ No javascript pode ser utilizado dois tipos de metodos para comentar, sendo esse
 
 #VARIAVEIS
 
-Variaveis são como caixas que guardam valores, as variveis so podem guardar um valor por vez, sendo que quando é tentado inserir outro valor na variavel, o valor anterior é substituido.
+Variaveis são como caixas que guardam valores, as variveis so 
+podem guardar um valor por vez, sendo que quando é tentado 
+inserir outro valor na variavel, o valor anterior é substituido.
 
-    um exemplo usado no video dessa aula foi: 
+um exemplo usado no video dessa aula foi: 
     
-        Imagine uma vaga de veiculo em um estacionamento,
-        essa vaga cabe apenas um carro por vez, sendo 
-        impossivel colocar dois carros na mesma vaga.
+    Imagine uma vaga de veiculo em um estacionamento,
+    essa vaga cabe apenas um carro por vez, sendo 
+    impossivel colocar dois carros na mesma vaga.
         
         
     uma variavel ser definida de qual o tipo de valor,
@@ -31,7 +33,15 @@ Variaveis são como caixas que guardam valores, as variveis so podem guardar um 
             valores de caracteres, sendo definido com aspas duplas ou simples, uma string pode conter todos
             ou maioria dos caracteres, numeros, simbolos, numeros e etc.
         
-                
+    
+O nome que uma variavel recebe chama-se 'identificador',
+para definir um identificador sem erros e de forma correta é 
+necessario se adequar a algumas regras, como:
+    - NÃO começar com números;
+    - NÃO conter espaços;
+    - NÃO usar palavras reservadas.
+    
+    
 
 Existe regras no
     
