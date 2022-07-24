@@ -35,7 +35,8 @@ um exemplo usado no video dessa aula foi:
         
     
 O nome que uma variavel recebe chama-se 'identificador',
-para definir um identificador sem erros e de forma correta é 
+para definir um identificador sem erros e de forma corre
+ta é 
 necessario se adequar a algumas regras, como:
 
     - NÃO começar com números;
@@ -45,7 +46,9 @@ necessario se adequar a algumas regras, como:
     
 O identificador pode;
     
-    - começar com letras, $ ou _;
+    - começar com letras, $ ou _;f
     - mesclar letras com números;
     - usar acentos e símbolos.
     
+OBS: Vale ressaltar que uma boa nomeclatura de identificadores 
+é bastante importante para uma boa organização para leitura e manutenção do código.
