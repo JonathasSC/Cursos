@@ -23,6 +23,15 @@ Variaveis são como caixas que guardam valores, as variveis so podem guardar um 
         essa vaga cabe apenas um carro por vez, sendo 
         impossivel colocar dois carros na mesma vaga.
         
+        
+    uma variavel ser definida de qual o tipo de valor,
+    sendo por exemplo:
+        
+        STRING;
+            valores de caracteres, sendo definido com aspas duplas ou simples, uma string pode conter todos
+            ou maioria dos caracteres, numeros, simbolos, numeros e etc.
+        
+                
 
 Existe regras no
     
