@@ -47,7 +47,5 @@ O identificador pode;
     
     - começar com letras, $ ou _;
     - mesclar letras com números;
-    - usar acentos e símbolos;
-    
-Existe regras no
+    - usar acentos e símbolos.
     
