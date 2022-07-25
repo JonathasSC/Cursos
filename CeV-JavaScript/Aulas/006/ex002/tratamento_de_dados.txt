@@ -26,7 +26,22 @@ minúsculas usando o .toLowerCase(), e mostrando tudo isso na página document.w
 
 após issso usando o window.prompt() atribuimos 
 dois valores a duas variavéis n1 e n2, e com esses dois valores
-vamos soma-los e mostrar o resultado na página com o window.alert().
+nosso objetivo é soma-los e mostrar o resultado na página com o
+window.alert().
+
+para conseguirmos fazer isso, foi necessario usarmos o 
+.Number() antes do window.prompt() para converter os valores em
+números, pois o window.prompt() de padrão retorna strings.
+
+Ai novamente definimos outra variavél que recebeu a soma
+dos valores recebidos que vamos chamar de "r"
+
+E para mostrar o resultados usando o window.alert(), colocamos
+uma string dentro do window.prompt() e após essa string ainda 
+dentro do () colocamos " + r " 
+
+
+
 
 OBS: todos os códigos criados nessa aula estão disponibilizados
 nesse mesmo diretório.
