@@ -20,7 +20,7 @@ variavél chamada de "nome" para receber o valor do nome do
 usuário.
 
 Logo após isso, fizemos uma análise da quantidade de letras do
-nome do usuário, convertemos o nome para UpperCase 
+nome do usuário, convertemos o nome para Caixa alta usando o .toUpperCase()
 
 usando o window.prompt() nessa aula vamos ser capazes de atribuir
 dois valores a duas variavéis n1 e n2, e com esses dois valores
