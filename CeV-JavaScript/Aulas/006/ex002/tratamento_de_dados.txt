@@ -15,6 +15,16 @@ como os:
         
 Porém o foco da aula foi em torno dos tipos number & string.
 
+Usando o window.prompt e o window.alert() definimos uma
+variavél chamada de "nome" para receber o valor do nome do
+usuário.
+
+Logo após isso, fizemos uma análise da quantidade de letras do
+nome do usuário, convertemos o nome para UpperCase 
+
 usando o window.prompt() nessa aula vamos ser capazes de atribuir
 dois valores a duas variavéis n1 e n2, e com esses dois valores
 vamos soma-los e mostrar o resultado na página com o window.alert()
+
+OBS: O código criado nessa aula está presente nesse mesmo diretório.
+
