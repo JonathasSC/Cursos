@@ -24,15 +24,12 @@
 
         <script>
             //recebendo e definindo a variável 'n1'
-            var n1 = Number.parseFloat(window.prompt('Digite um número: '))
-            
-            var n2 = Number.parseFloat(window.prompt('Digite outro número: '))
-            
-            //efetuando window alert ao receber 'n1 e n2'
-        
+            var n1 = Number(window.prompt('Digite um número: '))
+            var n2 = Number(window.prompt('Digite outro número: '))
+            //convertendo os valores para números 
             var r = n1 + n2
             //retornando na página a resposta
-            window.alert('A soma dos valores' + n1 'e' + n2 'é igual a ' + r)
+            window.alert('A soma dos valores é igual a ' + r)
 
         </script>
     </body>
