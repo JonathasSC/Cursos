@@ -4,11 +4,17 @@ Nessa aula foi citado os tipos de dados da aula passada,
 como os:
 
     - number;
-        - infinity
-        - NaN
-    - string 
-    - boolean 
-    - null
-    - undefined
-    - object 
-    
+        - infinity;
+        - NaN.
+    - string; 
+    - boolean;
+    - null;
+    - undefined;
+    - object;
+        - array.
+        
+Porém o foco da aula foi em torno dos tipos number & string.
+
+usando o window.prompt() nessa aula vamos ser capazes de atribuir
+dois valores a duas variavéis n1 e n2, e com esses dois valores
+vamos soma-los e mostrar o resultado na página com o window.alert()
