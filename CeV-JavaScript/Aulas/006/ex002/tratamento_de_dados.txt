@@ -1,1 +1,14 @@
+#TRATAMENTO DE DADOS 
 
+Nessa aula foi citado os tipos de dados da aula passada,
+como os:
+
+    - number;
+        - infinity
+        - NaN
+    - string 
+    - boolean 
+    - null
+    - undefined
+    - object 
+    
