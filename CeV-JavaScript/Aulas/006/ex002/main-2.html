@@ -24,16 +24,16 @@
 
         <script>
             //recebendo e definindo a variável 'n1'
-            var n1 = window.prompt('Digite um número: ')
-            var n2 = window.prompt('Digite outro número: ')
+            var n1 = Number.parseFloat(window.prompt('Digite um número: '))
+            var n2 = Number.parseFloat(window.prompt('Digite outro número: '))
+            
             //efetuando window alert ao receber 'n1 e n2'
+            Number.parseint(n1)
+            Number.parseint(n2)
+            var r = n1+n2
             window.alert('Valores recebidos.')
             //retornando na página a resposta
-            document.write(`Ola, ${name}! seu nome tem ${name.length} letras.<br>`)
-            //em letras maiúsculas 
-            document.write(`Seu nome em maiúsculas é ${name.toUpperCase()}<br>`)
-            //em letras minúsculas
-            document.write(`Seu nome em minúsculas é ${name.toLowerCase()}`)
+            window.alert('A soma dos valores' + r)
 
         </script>
     </body>
