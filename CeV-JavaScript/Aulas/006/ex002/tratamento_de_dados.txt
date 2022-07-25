@@ -22,9 +22,9 @@ usuário.
 Logo após isso, fizemos uma análise da quantidade de letras do
 nome do usuário, convertemos o nome para totalmente em 
 maiúscula usando o .toUpperCase() e para totalmente 
-minúsculas usando o .toLowerCase(), e mostrando tudo isso na página document.write()
+minúsculas usando o .toLowerCase(), e mostrando tudo isso na página document.write().
 
-usando o window.prompt() nessa aula vamos ser capazes de atribuir
+após issso usando o window.prompt() atribuimos 
 dois valores a duas variavéis n1 e n2, e com esses dois valores
 vamos soma-los e mostrar o resultado na página com o window.alert()
 
