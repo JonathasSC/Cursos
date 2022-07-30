@@ -1,0 +1,10 @@
+lista = ("Atletico-MG","Palmeiras","Fortaleza","Bragantino","Flamengo","Corinthians","Atletico-GO","Ceara-SC","Athletico-PR","Internacional","Santos","São Paulo","Juventude","Cuiaba","Bahia","Fluminense","Gremio","Sport Recife","America-MG","Chapecoense")
+print(f"Os 4 primeiros colocados foram:\n {lista[:5]}")
+print("="*30)
+print(f"Os 4 ultimos colocados foram:\n {lista[-4:]}")
+print("="*30)
+print(f"O time chapecoense esta na posição {lista.index('Chapecoense')+1}")
+print("="*30)
+print("A ordem alfabetica ficou:")
+for l in sorted(lista):
+	print(l,"\n")
