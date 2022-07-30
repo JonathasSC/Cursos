@@ -1,5 +1,0 @@
-number = int(input("digite um número: "))
-print(f"milhar: {number // 1000 % 10}")
-print(f"centena: {number // 100 % 10}")
-print(f"dezena: {number // 10 % 10}")
-print(f"unidade: {number // 1% 10}")
